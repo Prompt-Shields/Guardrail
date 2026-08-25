@@ -1,3 +1,16 @@
+> **This is an unmodified fork** (identical to upstream). The content below is
+> upstream's, and this notice is the only Bit Pulse AI addition.
+>
+> - **Upstream:** [ruvnet/guardrail](https://github.com/ruvnet/guardrail), by rUv
+> - **Why it is here:** prior-art evaluation of content classification and moderation
+>   pipelines built on OpenAI models.
+> - **Status:** evaluation copy, not maintained. Despite the name it is a content
+>   analysis and generation tool, not a runtime guardrail, and it is not part of the
+>   Prompt Shields product. Do not deploy it as a control.
+> - **Vulnerabilities:** report to upstream, not here. For Prompt Shields products, email security@promptshields.com.
+
+---
+
 # GuardRail OSS - Open Source Ai Guidance & Analysis API 
 ![Guardrail](https://github.com/ruvnet/guardrail/blob/main/assets/guardrail.png?raw=true)
 
